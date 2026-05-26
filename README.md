@@ -6,9 +6,5 @@
 5. [크롬 익스텐션] 네이버 블로그 페이지 감지 후 전송된 메시지 네이버 블로그 자동입력  
 6. [크롬 익스텐션] 발행 버튼 자동 클릭 후 글 등록
    
-## 시연영상
-https://github.com/user-attachments/assets/840c72e7-5ae1-4e15-9d0d-0f942562e41e
-
-# 구조도
 <img width="944" alt="스크린샷 2025-05-07 오후 4 50 16" src="https://github.com/user-attachments/assets/301386dc-fe19-4ccc-85f7-c2653bfe9c6e" />
 
